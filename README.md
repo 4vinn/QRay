@@ -1,4 +1,3 @@
-<h3>QR-Code-Generator</h3>
+### Generate your own QR codes!
 
-- Netlify: https://qr-vj.netlify.app/
-- GH page: https://vineet-jakhar.github.io/QR-Code-Generator/
+**Deployed on Netlify:** https://4vinn-qr.netlify.com/
