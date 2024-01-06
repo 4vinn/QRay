@@ -1,5 +1,9 @@
-### Generate your own QR codes!
+### QRay
+<img src="https://img.shields.io/badge/HTML-white?logo=html5&logoColor=red" /> <img src="https://img.shields.io/badge/CSS-white?logo=css3&logoColor=blue" />  <img src="https://img.shields.io/badge/JavaScript-white?logo=javascript&logoColor=yellow"/>
 
-**Deployed on** <br>
-- [Netlify](https://4vinn-qr.netlify.com/)
-- [GitHub Pages](https://4vinn.github.io/QRay/)
+
+> Generate your own QR codes!
+
+### Deployed on
+- <b>Netlify</b>: https://4vinn-qr.netlify.com/<br>
+- <b>GitHub Pages</b>: https://4vinn.github.io/QRay/<br>
