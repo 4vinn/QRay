@@ -3,6 +3,8 @@
 
 
 > Generate your own QR codes!
+> 
+> Utilized qrcode.js library
 
 ### Deployed on
 - <b>Netlify</b>: https://4vinn-qr.netlify.com/<br>
